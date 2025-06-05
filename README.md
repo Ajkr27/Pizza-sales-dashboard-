@@ -1,5 +1,6 @@
 # Pizza-sales-dashboard
 🍕 Pizza Sales Analysis Project
+
 📊 Overview
 This data analysis project explores pizza sales data using SQL, Excel, and Power BI to uncover key business insights and customer behavior patterns. The goal is to demonstrate a full-cycle analytics process — from raw data extraction to interactive dashboarding.
 
